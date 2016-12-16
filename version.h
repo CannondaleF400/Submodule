@@ -4,6 +4,7 @@
  // test by basing new branch off master
  // try again
  // create branch on github first
+ // modify after checking out from branch created on github
  
  #ifndef VERSION_H
  #define VERSION_H
