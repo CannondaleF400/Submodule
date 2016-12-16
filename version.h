@@ -1,4 +1,6 @@
  // This is the version file
+ // After initial submodule push
+ // try to do a recursive push from main project
  
  #ifndef VERSION_H
  #define VERSION_H
